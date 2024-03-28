@@ -1973,5 +1973,5 @@ train = ["seqeval"]
 
 [metadata]
 lock-version = "2.0"
-python-versions = ">=3.8,<=3.12"
-content-hash = "969d04a97fd7c63d88111d8012679319f53745415c2a5a5a5d6e63025c9f93f5"
+python-versions = ">=3.8,<3.13"
+content-hash = "cf65114b9f4ed6da63c6b4350934df5c8f33ac965784f97778a6fd580795d71b"
